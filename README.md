@@ -1,31 +1,25 @@
 Documents, code and notes developed by students and teachers
 of the **University of L'Aquila** for the courses of the **Computer Science** department (DSIM).
 
+Mobile Applications Development 2014
+===================
 
-## HowTo Git
-To setup your library and maintain it updated, you can use these basic commands:
+A collection of mobile apps, material, and documents developed during the [Mobile Applications Development](http://lore.com/MAD2014) course in 2014 at the University of L'Aquila.
 
-```sh
-# Clone the repository with:
-$ git clone https://github.com/UnivAQ/${repo}.git
+All the lectures of the course are available [here](http://www.slideshare.net/iivanoo/presentations).
 
-# Get the last version:
-$ git pull
-```
+The focus of Mobile Applications Development is on understanding the mobile applications development problem space, how to effectively design a business-ready mobile app, and how to correctly implement it.
 
-Have fun! ;)
+The course is intended to cover the following topics:
 
----
-
-If you want to stay in karma with Git, [check this out](http://goo.gl/MIQVj6)
-
-
-## How To Contribute
-If you want to contribute:
-- fork the project and make a pull request
-- or feel free to open an issue.
-
-If you have any ask, please post on [The Official Group][group].
++ Understanding of the mobile ecosystem, platforms and strategies
++ Mobile information architecture and UI Design
++ Web technologies for mobile app development (HTML5, CSS3, JavaScript, and MVC frameworks)
++ Data management (local data storage, REST APIs)
++ Geolocalization and mapping
++ Accessing the device capabilities (camera, accelerometer, contacts, messaging, etc.)
++ Mobile app Debugging
++ Mobile app distribution and monetization
 
 
 ## Disclaimer
